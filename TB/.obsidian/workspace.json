@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "7966edeebaa30799",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d465510c82d7be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3335a7268981a429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llama2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b1fce268e50a555",
+    "type": "split",
+    "children": [
+      {
+        "id": "0476fc2223f31834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06ba9e90f2abc22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aca341aa46ac4594",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50169f75633f9bed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34661b40c42a71fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73347a6cfc5eace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f28cdff9a6e574c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "llama2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be86504eba0d212d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "llama2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e56e34a4a1870f21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d467ac5f93276893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "llama2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "3335a7268981a429",
+  "lastOpenFiles": [
+    "Tester ollama.md",
+    "llama2.md",
+    "Prompt engineering.md",
+    "LLM.md",
+    "Questions pour le prochain meeting.md",
+    "Travail de Bachelor.md",
+    "Blog de Ethan Mollick.md",
+    "mistral.md",
+    "Sans titre.canvas",
+    "openai.md",
+    "Welcome.md",
+    "weeks",
+    "Travail.md"
+  ]
+}

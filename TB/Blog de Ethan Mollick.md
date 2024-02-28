@@ -1,0 +1,1 @@
+L'objectif est de lire plusieurs article du blog pour avoir une meilleure idée de comment marche le [[prompt engineering]] et comment ce monsieur utiliser les [[LLM]] dans le cadre de ces cours.
