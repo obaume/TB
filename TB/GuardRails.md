@@ -1,0 +1,2 @@
+peut être utiliser pour valider les output des LLMs. 
+Sera surement utiles pour verifier que les champs du evaluation_grid sont bien retransmis dans le output et que les points donnés pour chaque champs de l'evaluation_grid  ne dépasse pas les points maximum pour ce champ. 

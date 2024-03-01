@@ -5,4 +5,4 @@ Pour se faire voilà les premiers assignements que mon prof m'a donné
 - [ ] [[Blog de Ethan Mollick]]
 - [ ] [[Prompt engineering]]
 - [ ] [[Tester ollama]]
-- [x] [[openai]]
+- [x] [[OpenAI]]
