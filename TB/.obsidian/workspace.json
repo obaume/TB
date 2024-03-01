@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llama2.md",
+                "file": "Blog de Ethan Mollick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca9360e5591c6be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LangChain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3878fbbf778d7edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GuardRails.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llama2.md",
+                "file": "GuardRails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "llama2.md",
+                "file": "GuardRails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "llama2.md"
+                "file": "GuardRails.md"
               }
             }
           }
@@ -146,18 +171,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3335a7268981a429",
+  "active": "3878fbbf778d7edc",
   "lastOpenFiles": [
+    "LangChain.md",
+    "GuardRails.md",
     "Tester ollama.md",
+    "Blog de Ethan Mollick.md",
+    "Context length.md",
+    "LLM.md",
     "llama2.md",
     "Prompt engineering.md",
-    "LLM.md",
-    "Questions pour le prochain meeting.md",
-    "Travail de Bachelor.md",
-    "Blog de Ethan Mollick.md",
     "mistral.md",
+    "Questions pour le prochain meeting.md",
+    "tiktoken.md",
+    "Travail de Bachelor.md",
+    "OpenAI.md",
+    "Chat-GPT 4.md",
+    "Chat-GPT 3.5.md",
     "Sans titre.canvas",
-    "openai.md",
     "Welcome.md",
     "weeks",
     "Travail.md"
