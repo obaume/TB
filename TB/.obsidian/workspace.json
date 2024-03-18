@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GuardRails.md",
+                "file": "LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GuardRails.md",
+                "file": "LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GuardRails.md",
+                "file": "LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GuardRails.md"
+                "file": "LLM.md"
               }
             }
           }
@@ -173,16 +173,16 @@
   },
   "active": "3878fbbf778d7edc",
   "lastOpenFiles": [
-    "LangChain.md",
+    "Questions pour le prochain meeting.md",
+    "Prompt engineering.md",
     "GuardRails.md",
+    "LangChain.md",
     "Tester ollama.md",
     "Blog de Ethan Mollick.md",
     "Context length.md",
     "LLM.md",
     "llama2.md",
-    "Prompt engineering.md",
     "mistral.md",
-    "Questions pour le prochain meeting.md",
     "tiktoken.md",
     "Travail de Bachelor.md",
     "OpenAI.md",

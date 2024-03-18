@@ -1,5 +1,5 @@
 from langchain.prompts import PromptTemplate
-from parser import parser
+from packages.parser import parser
 
 template = PromptTemplate(
     template="""
