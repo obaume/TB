@@ -1,0 +1,1 @@
+export POETRY_DOTENV_LOCATION=.env && poetry run -vvv python app/server.py
